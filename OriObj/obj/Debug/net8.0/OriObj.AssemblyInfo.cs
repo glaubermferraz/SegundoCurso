@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OriObj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee6112da4f1b643448cf528f144121c7b33dd5bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae0c8d24c903bb5f2f7851cedc9f06af5a4ca109")]
 [assembly: System.Reflection.AssemblyProductAttribute("OriObj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OriObj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
