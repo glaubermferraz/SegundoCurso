@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharp\\SegundoCurso\\OrientacaoObjetos\\OrientacaoObjetos.vbproj",
-      "projectName": "OrientacaoObjetos",
-      "projectPath": "C:\\CSharp\\SegundoCurso\\OrientacaoObjetos\\OrientacaoObjetos.vbproj",
+      "projectUniqueName": "C:\\CSharp\\SegundoCurso\\OriObj\\OriObj.csproj",
+      "projectName": "OriObj",
+      "projectPath": "C:\\CSharp\\SegundoCurso\\OriObj\\OriObj.csproj",
       "packagesPath": "C:\\Users\\glaub\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharp\\SegundoCurso\\OrientacaoObjetos\\obj\\",
+      "outputPath": "C:\\CSharp\\SegundoCurso\\OriObj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\glaub\\AppData\\Roaming\\NuGet\\NuGet.Config",
