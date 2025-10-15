@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Episodio.cs",
               "ToolTip": "C:\\CSharp\\SegundoCurso\\OriObj\\Episodio.cs",
               "RelativeToolTip": "Episodio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T00:46:48.688Z",
               "EditorCaption": ""
@@ -63,16 +63,16 @@
               "Title": "Podcast.cs",
               "DocumentMoniker": "C:\\CSharp\\SegundoCurso\\OriObj\\Podcast.cs",
               "RelativeDocumentMoniker": "Podcast.cs",
-              "ToolTip": "C:\\CSharp\\SegundoCurso\\OriObj\\Podcast.cs*",
-              "RelativeToolTip": "Podcast.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\CSharp\\SegundoCurso\\OriObj\\Podcast.cs",
+              "RelativeToolTip": "Podcast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T00:44:26.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Banda.cs",
               "DocumentMoniker": "C:\\CSharp\\SegundoCurso\\OriObj\\Banda.cs",
               "RelativeDocumentMoniker": "Banda.cs",
@@ -85,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\CSharp\\SegundoCurso\\OriObj\\Album.cs",
               "RelativeDocumentMoniker": "Album.cs",
@@ -117,7 +117,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\CSharp\\SegundoCurso\\OriObj\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:26:59.374Z",
               "EditorCaption": ""

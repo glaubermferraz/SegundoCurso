@@ -3,13 +3,13 @@
     private List<string> convidados = new List<string>();
     public int Duracao { get; }
     public string Titulo { get; }
-    public string Resumo => $"{Ordem} - {Titulo} - {string.Join(",", convidados)}";
+    public string Resumo => $"{Ordem}. {Titulo} ({Duracao} min) - {string.Join(", ", convidados)}";
     public int Ordem { get; }
-    public Episodio(string titulo, int duracao, int ordem)
+    public Episodio(int ordem, string titulo, int duracao)
     {
+        Ordem = ordem;
         Titulo = titulo;
         Duracao = duracao;
-        Ordem = ordem;
     }
 
     public void AdicionarConvidados(string nomeConvidado)

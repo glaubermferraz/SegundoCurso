@@ -13,7 +13,7 @@
     public void AdicionarEpisodio(Episodio episodio)
     {
         listaEpisodios.Add(episodio);
-        Console.WriteLine($"O episódio {episodio.Titulo} foi adicionado ao podcast {Nome}.");
+        Console.WriteLine($"O episódio '{episodio.Ordem} - {episodio.Titulo}' foi adicionado ao podcast {Nome}.");
     }
 
     public void ExibirDetalhes()
@@ -23,7 +23,7 @@
         Console.WriteLine($"Host: {Host}");
         Console.WriteLine($"Total de Episódios: {TotalEpisodios}");
         Console.WriteLine("Episódios:");
-        foreach (var episodio in listaEpisodios)
+        foreach (var episodio in listaEpisodios.OrderBy(e => e.Ordem))
         {
             Console.WriteLine($"> {episodio.Resumo} ({episodio.Duracao} minutos)");
         }
