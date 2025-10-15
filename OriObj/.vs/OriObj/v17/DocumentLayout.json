@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\CSharp\\SegundoCurso\\OriObj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|c:\\csharp\\segundocurso\\oriobj\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7347C547-77B4-464B-BA2B-F9880F89C162}|OriObj.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +43,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Episodio.cs",
+              "DocumentMoniker": "C:\\CSharp\\SegundoCurso\\OriObj\\Episodio.cs",
+              "RelativeDocumentMoniker": "Episodio.cs",
+              "ToolTip": "C:\\CSharp\\SegundoCurso\\OriObj\\Episodio.cs",
+              "RelativeToolTip": "Episodio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:46:48.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\CSharp\\SegundoCurso\\OriObj\\Podcast.cs",
+              "RelativeDocumentMoniker": "Podcast.cs",
+              "ToolTip": "C:\\CSharp\\SegundoCurso\\OriObj\\Podcast.cs*",
+              "RelativeToolTip": "Podcast.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T00:44:26.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Album.cs",
               "DocumentMoniker": "C:\\CSharp\\SegundoCurso\\OriObj\\Album.cs",
               "RelativeDocumentMoniker": "Album.cs",
@@ -64,26 +98,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Musica.cs",
               "DocumentMoniker": "C:\\CSharp\\SegundoCurso\\OriObj\\Musica.cs",
               "RelativeDocumentMoniker": "Musica.cs",
               "ToolTip": "C:\\CSharp\\SegundoCurso\\OriObj\\Musica.cs",
               "RelativeToolTip": "Musica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:32:55.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CSharp\\SegundoCurso\\OriObj\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\CSharp\\SegundoCurso\\OriObj\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T13:26:59.374Z",
               "EditorCaption": ""
