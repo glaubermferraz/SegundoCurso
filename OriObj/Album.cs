@@ -4,7 +4,7 @@
     public string Nome { get; set; }
     public int DuracaoTotal => musicas.Sum(m => m.Duracao);
 
-    public void AdcionarMusica(Musica musica)
+    public void AdicionarMusica(Musica musica)
     {
         musicas.Add(musica);
         Console.WriteLine($"A música {musica.Nome} foi adicionada ao álbum {Nome}.");
